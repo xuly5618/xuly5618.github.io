@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120">
+<title>D–A 课题组标志 · 绿色 D 节点</title>
+
+<path d="M29 34H19v66h10m102-66h10v66h-10" fill="none" stroke="#1C3657" stroke-width="6" stroke-linecap="square"/>
+<path d="m28 78 24-25 28 26 28-26 24 25" fill="none" stroke="#1C3657" stroke-width="7" stroke-linejoin="round"/>
+<path d="M80 12c1 5 4 8 9 9-5 1-8 4-9 9-1-5-4-8-9-9 5-1 8-4 9-9Z" fill="#E7AA44"/>
+<circle cx="52" cy="53" r="14" fill="#3B6E60"/>
+<circle cx="108" cy="53" r="14" fill="#E7AA44"/>
+<g font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+  <text x="52" y="58.3" fill="#FFFFFF">D</text>
+  <text x="108" y="58.3" fill="#1C3657">A</text>
+</g>
+
+</svg>
